@@ -9,4 +9,4 @@ http://arunmallya.github.io/writeups/nn/lstm/
 
 ### RNN_TMVA
 
-Code for an RNN classifier implemented using TMVA. The dataset has been taken from TMVA classification tutorial. The task is to classify an event in the Large Hadron Collider as signal or background.
+Code for an RNN classifier implemented using TMVA. The dataset has been taken from TMVA classification tutorial. The task is to classify any event (say in the Large Hadron Collider) as signal or background.
