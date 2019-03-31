@@ -6,8 +6,7 @@ This repository contains code for GSoC 2019 selection tasks for TMVA-CERN
 
 ### LSTM
 
-Code for forward and backward pass for a single LSTM cell. The variant of LSTM cell that has been implemented is taken from the following link:
-http://arunmallya.github.io/writeups/nn/lstm/
+Code for forward and backward pass for a single LSTM cell. Ref: http://arunmallya.github.io/writeups/nn/lstm/
 
 ### RNN_TMVA
 
