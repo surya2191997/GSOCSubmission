@@ -1,6 +1,6 @@
 # GSOCSubmission
 
-This repository contains code for GSoC 2019 selection task for TMVA-CERN 
+This repository contains code for GSoC 2019 selection tasks for TMVA-CERN 
 
 ##  Project 3: Development of LSTM and GRU layers in TMVA.
 
