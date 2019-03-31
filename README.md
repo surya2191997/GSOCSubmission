@@ -17,7 +17,7 @@ Directions for running:
 
 ### Task 3 and 4: LSTM
 
-Code for forward and backward pass for a single LSTM cell. Ref: http://arunmallya.github.io/writeups/nn/lstm/
+Code for forward and backward pass for a single LSTM cell. 
 
 * LSTM.cpp     :   Contains functions for forward and backward pass for a single LSTM cell
 * operations.h :   Contains functions for matrix and vector operations 
